@@ -23,4 +23,10 @@
       </plugin>
     </plugins>
   </build>
+  <repositories>
+    <repository>
+      <id>maven-jenkins-repo</id>
+      <url>http://18.218.206.194:8080/jenkins/plugin/repository/everything/</url>
+    </repository>
+ </repositories>
 </project>
